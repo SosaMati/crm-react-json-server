@@ -1,0 +1,14 @@
+{
+  "name": "cmr-react-server",
+  "version": "1.0.0",
+  "description": "server del proyecto cmr.react",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Matías Sosa",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
